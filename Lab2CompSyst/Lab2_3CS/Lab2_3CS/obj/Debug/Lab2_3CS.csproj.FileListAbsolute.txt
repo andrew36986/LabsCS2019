@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\obj\Debug\Lab2_3CS.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\obj\Debug\Lab2_3CS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\bin\Debug\Lab2_3CS.exe.config
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\bin\Debug\Lab2_3CS.exe
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\bin\Debug\Lab2_3CS.pdb
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\obj\Debug\Lab2_3CS.csproj.CopyComplete
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\obj\Debug\Lab2_3CS.exe
+C:\Users\User\source\repos\Lab2_3CS\Lab2_3CS\obj\Debug\Lab2_3CS.pdb

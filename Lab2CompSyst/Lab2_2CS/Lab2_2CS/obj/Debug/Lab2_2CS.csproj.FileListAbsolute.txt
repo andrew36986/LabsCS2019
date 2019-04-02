@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lab2_2CS\Lab2_2CS\obj\Debug\Lab2_2CS.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab2_2CS\Lab2_2CS\obj\Debug\Lab2_2CS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab2_2CS\Lab2_2CS\bin\Debug\Lab2_2CS.exe.config
+C:\Users\User\source\repos\Lab2_2CS\Lab2_2CS\bin\Debug\Lab2_2CS.exe
+C:\Users\User\source\repos\Lab2_2CS\Lab2_2CS\bin\Debug\Lab2_2CS.pdb
+C:\Users\User\source\repos\Lab2_2CS\Lab2_2CS\obj\Debug\Lab2_2CS.exe
+C:\Users\User\source\repos\Lab2_2CS\Lab2_2CS\obj\Debug\Lab2_2CS.pdb
