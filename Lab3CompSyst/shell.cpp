@@ -25,25 +25,22 @@ int increment(long inc[], long size)
 int main()
 {
 	clock_t s = clock();
-	for(int b = 0; b < 5000000; ++b)
-	{
-		int a[] = { 7,6,2,1,3,8,12,32,66,22,34,11,25,109,30,9,9,47 };
-		long size = 18;
-		long inc, i, j, seq[40];
-		int s;
+	int a[] = { 7,6,2,1,3,8,12,32,66,22,34,11,25,109,30,9,9,47 };
+	long size = 18;
+	long inc, i, j, seq[40];
+	int s;
 		
-		s = increment(seq, size);
-		while (s >= 0)
+	s = increment(seq, size);
+	while (s >= 0)
 		{
-			inc = seq[s--];
-			for (i = inc; i < size; ++i)
-			{
-				int temp = a[i];
-				for (j = i; (j >= inc) && (temp < a[j - inc]); j -= inc) {
-					a[j] = a[j - inc];
-				}
-				a[j] = temp;
+		inc = seq[s--];
+		for (i = inc; i < size; ++i)
+		{
+			int temp = a[i];
+			for (j = i; (j >= inc) && (temp < a[j - inc]); j -= inc) {
+				a[j] = a[j - inc];
 			}
+			a[j] = temp;
 		}
 	}
 	printf("ExTime -> %.2fsec", (double)(clock() - s)/CLOCKS_PER_SEC);
