@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <cstdlib>
 int increment(long inc[], long size)
 {
 	int p1, p2, p3, s;
