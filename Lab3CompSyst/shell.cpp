@@ -23,8 +23,9 @@ int increment(long inc[], long size)
 }
 int main()
 {
-	int a[] = { 7,6,2,1,3,8,12,32,66,22,34,11,25,109,30,9,9,47 };
-	long size = 18;
+	int a[10000] = {};
+	for (int i = 0; i < 10000; i++) { a[i] = rand(); }
+	long size = 10000;
 	long inc, i, j, seq[40];
 	int s;
 		
