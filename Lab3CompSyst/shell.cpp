@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include<time.h>
 int increment(long inc[], long size)
 {
 	int p1, p2, p3, s;
@@ -24,7 +23,6 @@ int increment(long inc[], long size)
 }
 int main()
 {
-	clock_t s = clock();
 	int a[] = { 7,6,2,1,3,8,12,32,66,22,34,11,25,109,30,9,9,47 };
 	long size = 18;
 	long inc, i, j, seq[40];
@@ -43,7 +41,6 @@ int main()
 			a[j] = temp;
 		}
 	}
-	printf("ExTime -> %.2fsec", (double)(clock() - s)/CLOCKS_PER_SEC);
 	return 0;
 }
 
